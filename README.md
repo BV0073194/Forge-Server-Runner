@@ -23,8 +23,8 @@
 - Java Runtime Enviroment (JRE) installed on your machine. ([Windows Offline (64 Bit)](https://www.java.com/en/download/manual.jsp))
 - Minecraft Forge server jar file (`forge-1.16.5-36.2.42.jar`) located in the same directory as the application.
 - Net 8.0 Desktop Runtime:
-- ([Windows x86](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.402-windows-x86-installer))
-- ([Windows x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.402-windows-x64-installer))
+  ([Windows x86](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.402-windows-x86-installer))
+  ([Windows x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.402-windows-x64-installer))
 
 ## License
 
