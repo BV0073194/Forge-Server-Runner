@@ -34,7 +34,3 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md)
 
 - Thanks to the Minecraft community for their support and contributions.
 - Special thanks to the developers of Minecraft Forge for creating such a robust modding platform.
-
-## Contact
-
-For any questions or feedback, please contact the developer at (hahaha).
