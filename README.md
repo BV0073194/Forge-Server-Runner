@@ -24,20 +24,13 @@
    - To run the server without any parameters, double-click the `ForgeServer.exe` file.
    - Alternatively, you can run the application from a terminal with optional command-line arguments.
 
-2. **Command-Line Arguments**:
-   - `--n`: Normal run
-   - `--gpt-r`: ChatGPT recommended run
-   - `--c`: Custom run
-   - `--xmx [value]`: Custom maximum memory allocation
-   - `--xms [value]`: Custom minimum memory allocation
-
-3. **Interactive Mode**:
-   - If no command-line arguments are provided, the application will prompt you to select a run option and customize memory settings interactively.
-
 ## Requirements
 
 - Java Runtime Enviroment (JRE) installed on your machine. ([Windows Offline (64 Bit)](https://www.java.com/en/download/manual.jsp))
 - Minecraft Forge server jar file (`forge-1.16.5-36.2.42.jar`) located in the same directory as the application.
+- Net 8.0 Desktop Runtime:
+- ([Windows x86](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.402-windows-x86-installer))
+- ([Windows x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.402-windows-x64-installer))
 
 ## License
 
